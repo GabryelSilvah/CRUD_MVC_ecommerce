@@ -12,6 +12,8 @@ dos  dados na view já foram implementas.
   
 <img style="width:400px;"  src="https://github.com/GabryelSilvah/CRUD_MVC_ecommerce/assets/139282381/9754bd55-4ff4-4ff5-8142-a1bfb93395e9">
 
-  <img style="width:400px" src="https://github.com/GabryelSilvah/CRUD_MVC_ecommerce/assets/139282381/8f61a412-85f0-4ab7-9a44-14f1d31323f3)">
+  <img style="width:400px" src="https://github.com/GabryelSilvah/CRUD_MVC_ecommerce/assets/139282381/8f61a412-85f0-4ab7-9a44-14f1d31323f3">
+
+  <img style="width:400px" src="https://github.com/GabryelSilvah/CRUD_MVC_ecommerce/assets/139282381/3391a597-af66-4059-a2bf-0bc35d9e8477">
   
   </div>
