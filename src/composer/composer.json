@@ -1,0 +1,19 @@
+{
+    "name": "website/mvc",
+    "description": "App loja virtual em mvc.",
+    "authors": [
+        {
+            "name": "Gabryel Silvah"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\":"../app/",
+            "src\\":"../src/"
+        }
+    }
+}
+
