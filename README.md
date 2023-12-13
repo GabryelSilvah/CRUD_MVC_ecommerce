@@ -1,5 +1,8 @@
 # CRUD_MVC_ecommerce
 
+> Status: em desenvolvimento
+
+
 ## sobre
 Quando iniciei esse projeto estava desenvolvendo de maneira procedural, mas conforme o projeto foi se expandido sentir a necessidade de uma maior organização.
 Então para facilitar a leitura, manuseio e manutenção do código optei por usar uma arquitetura de software. Escolhi a mvc por ter uma estruturação de pastas, 
@@ -16,7 +19,7 @@ dos  dados na view já foram implementas.
   
   </div>
 
-### Painel de controle
+## Painel de controle
 
 Quando as funcionalidades da página principal forem concluídas, migrarei o painel de controle que fiz no procedural para o MVC.
   <div style="width:100vw;display:flex;justify-content:center; gap:10px;flex-wrap:wrap;">
