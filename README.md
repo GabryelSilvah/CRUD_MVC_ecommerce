@@ -4,12 +4,9 @@
 
 
 ## sobre
-Quando iniciei esse projeto estava desenvolvendo de maneira procedural, mas conforme o projeto foi se expandido sentir a necessidade de uma maior organização.
-Então para facilitar a leitura, manuseio e manutenção do código optei por usar uma arquitetura de software. Escolhi a mvc por ter uma estruturação de pastas, 
-model, view e controller, que atenderia as minhas necessidades.
+Quando iniciei esse projeto, estava desenvolvendo de maneira procedural, mas conforme o projeto foi se expandido sentir a necessidade de uma maior organização. Então para facilitar a leitura, manuseio e manutenção do código optei por usar uma arquitetura de software. Escolhi a mvc por ter uma estruturação de pastas, model, view e controller, que atenderia as minhas necessidades.
 
-Estou no início da migração do procedural para o mvc. Os sistemas de rotas já estão funcionais e muitas das funcionalidades, como, buscas no banco de dados e distribuição 
-dos  dados na view já foram implementas.
+Estou no início da migração do procedural para o mvc. Os sistemas de rotas já estão funcionais e muitas das funcionalidades, como, buscas no banco de dados e distribuição dos dados na view já foram implementas.
 
 <div style="width:100vw;display:flex;justify-content:center; gap:10px;flex-wrap:wrap;">
   
@@ -21,7 +18,7 @@ dos  dados na view já foram implementas.
 
 ## Painel de controle
 
-Quando as funcionalidades da página principal forem concluídas, migrarei o painel de controle que fiz no procedural para o MVC.
+Esse ecommerce possui um painel de controle que só será disponível para o administrador da página. Nele é possível fazer todas as operações básicas de um CRUD.
   <div style="width:100vw;display:flex;justify-content:center; gap:10px;flex-wrap:wrap;">
     
   <img style="width:400px" src="https://github.com/GabryelSilvah/CRUD_MVC_ecommerce/assets/139282381/3391a597-af66-4059-a2bf-0bc35d9e8477">
